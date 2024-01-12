@@ -2,26 +2,26 @@
   "navLinks": [
     { "id": 1, "text": "Home", "url": "/" },
     { "id": 2, "text": "About", "url": "/about" },
-    { "id": 3, "text": "Contact", "url": "/contact" },
     { "id": 4, "text": "Resume", "url": "/resume" },
     { "id": 5, "text": "Projects", "url": "/projects" },
-    { "id": 6, "text": "Reviews", "url": "/review" }
+    { "id": 6, "text": "Reviews", "url": "/review" },
+    { "id": 3, "text": "Contact", "url": "/contact" }
   ],
   "Resume": [
-    { "id": 1, "title": "HTML", "url": "https://i.ibb.co/HTkk3HQ/html-code-icon.png" },
-    { "id": 2, "title": "CSS", "url": "https://i.ibb.co/ZdSfjtt/download-css-icon.png" },
-    { "id": 3, "title": "JavaScript", "url": "https://i.ibb.co/NNYJ8GQ/javascript-programming-language-icon.png" },
-    { "id": 4, "title": "Bootstrap", "url": "https://i.ibb.co/9Tq1MCz/bootstrap-4-icon.png" },
-    { "id": 5, "title": "Vue3.js", "url": "https://i.ibb.co/CMNb0Tz/vue-js-icon.png" },
-    { "id": 6, "title": "Git", "url": "https://i.ibb.co/4TksrHC/git-icon.png" }
+    { "id": 1, "title": "HTML", "url": "https://i.ibb.co/HTkk3HQ/html-code-icon.png" ,"desc":"Beginner"},
+    { "id": 2, "title": "CSS", "url": "https://i.ibb.co/ZdSfjtt/download-css-icon.png","desc":"Beginner" },
+    { "id": 3, "title": "JavaScript", "url": "https://i.ibb.co/NNYJ8GQ/javascript-programming-language-icon.png","desc":"Beginner" },
+    { "id": 4, "title": "Bootstrap", "url": "https://i.ibb.co/9Tq1MCz/bootstrap-4-icon.png" ,"desc":"Beginner"},
+    { "id": 5, "title": "Vue3.js", "url": "https://i.ibb.co/CMNb0Tz/vue-js-icon.png","desc":"Beginner" },
+    { "id": 6, "title": "Git", "url": "https://i.ibb.co/4TksrHC/git-icon.png" ,"desc":"Beginner"}
   ],
   "Projects": [
-    { "id": 1, "name": "Royalfootwear", "url": "https://i.ibb.co/R64yLRc/royal-footwear.png", "github": "", "vercel": "" },
-    { "id": 2, "name": "TodoList", "url": "https://i.ibb.co/fkpM9Fn/Todo-list.png", "github": "", "vercel": "" },
-    { "id": 3, "name": "Ecommerce", "url": "https://i.ibb.co/YDkMhXM/ecommerce.png", "github": "", "vercel": "" },
-    { "id": 4, "name": "Calculator", "url": "https://i.ibb.co/xYgDWj9/Screenshot-2023-11-02-154507.png", "github": "", "vercel": "" },
-    { "id": 5, "name": "Temperature Converter", "url": "https://i.ibb.co/LCXCW66/Temperature-converter.png", "github": "", "vercel": "" },
-    { "id": 6, "name": "MegaOne Clone", "url": "https://i.ibb.co/hyCZHHP/Megaone-clone.png", "github": "", "vercel": "" }
+    { "id": 1, "name": "Royalfootwear", "url": "https://i.ibb.co/R64yLRc/royal-footwear.png", "github": "https://github.com/siyamthandatsobo/royalFootwear.git", "netlify": "https://royalfootware.netlify.app","info":"A Javascript Ecommerce site working with a crud system.I have Learnt sorting functions,editing information,adding new products and using local storage data check it out for more Functionalities " },
+    { "id": 2, "name": "TodoList", "url": "https://i.ibb.co/fkpM9Fn/Todo-list.png", "github": "https://github.com/siyamthandatsobo/To-do-list.git", "netlify": "https://siyatodoapp.netlify.app","info":"A javascript Todolist that consist of the followowing functionalities:Adding new tasks to the list,Marking tasks as completed,Deleting tasks," },
+    { "id": 3, "name": "Ecommerce", "url": "https://i.ibb.co/YDkMhXM/ecommerce.png", "github": "https://github.com/siyamthandatsobo/ecommerce.git", "netlify": "https://empiresiya.netlify.app","info":"A simple Css eccommerce site No functionalities involved ,built using only html and css" },
+    { "id": 4, "name": "Calculator", "url": "https://i.ibb.co/xYgDWj9/Screenshot-2023-11-02-154507.png", "github": "https://github.com/siyamthandatsobo/Calculator.git", "netlify": "https://tsobocalculator.netlify.app" ,"info":" A javascript calculator that performs basic arithmetic operations (addition, subtraction, multiplication, division)."},
+    { "id": 5, "name": "Temperature Converter", "url": "https://i.ibb.co/LCXCW66/Temperature-converter.png", "github": "https://github.com/siyamthandatsobo/temp-conversion.git", "netlify": "https://tsobotemperatureconversion.netlify.app" ,"info":"A Javascript temperature converter Converting temperatures between different units (Celsius to Fahrenheit)"},
+    { "id": 6, "name": "MegaOne Clone", "url": "https://i.ibb.co/hyCZHHP/Megaone-clone.png", "github": "https://github.com/siyamthandatsobo/Megaone.git", "netlify": "https://megaoneclone.netlify.app","info":"A Boostrap website I tried cloning while learning Html and css" }
   ],
   "Reviews": [
     { "person": "Qaqambile", "review": "I had the pleasure of working with Siyamthanda on a coding project, and I must say that I was impressed with her skills and ability to learn on her own. As someone who is her peer, I can tell you that Siya's dedication and passion for coding are unmatched. She is a fast learner, and her attention to detail is impeccable.", "url": "https://i.ibb.co/c2tXm12/C13-Portfolio-picture-1.png" },
