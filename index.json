@@ -1,54 +1,48 @@
 {
-    "navLinks":[
-        { "id": 1, "text": "Home", "url": "/" },
-       { "id": 2, "text": "About", "url": "/about"},
-       { "id": 3, "text": "Contact", "url": "/contact"},
-       { "id": 4, "text": "Resume", "url": "/resume"},
-       { "id": 4, "text": "Projects", "url": "/projects"},
-       { "id": 5, "text": "Reviews", "url": "/review"}
-
-    ],
-    "Resume":[
-        { "id": 2, "title": "Html", "url": "https://i.ibb.co/HTkk3HQ/html-code-icon.png" },
-        { "id": 3, "title": "Css", "url": "https://i.ibb.co/ZdSfjtt/download-css-icon.png" },
-        { "id": 4, "title": "Javascript", "url": "https://i.ibb.co/NNYJ8GQ/javascript-programming-language-icon.png" },
-        { "id": 5, "title": "Boostrap", "url": "https://i.ibb.co/9Tq1MCz/bootstrap-4-icon.png" },
-        { "id": 6, "title": "Vue3 js", "url": "https://i.ibb.co/CMNb0Tz/vue-js-icon.png" },
-        { "id": 7, "title": "Git", "url": "https://i.ibb.co/4TksrHC/git-icon.png" }
-    ],
-    "Projects":[
-        {"id":1 ,"name":"Royalfootwear" ,"url":"https://i.ibb.co/R64yLRc/royal-footwear.png","github":"","vercel":""},
-        {"id":1 ,"name":"TodoList" ,"url":"https://i.ibb.co/fkpM9Fn/Todo-list.png","github":"","vercel":""},
-        {"id":1 ,"name":"Ecommerce" ,"url":"https://i.ibb.co/YDkMhXM/ecommerce.png","github":"","vercel":""},
-        {"id":1 ,"name":"Calculator" ,"url":"https://i.ibb.co/xYgDWj9/Screenshot-2023-11-02-154507.png","github":"","vercel":""},
-        {"id":1 ,"name":"Temperature Converter" ,"url":"https://i.ibb.co/LCXCW66/Temperature-converter.png","github":"","vercel":""},
-        {"id":1 ,"name":"MegaOne Clone" ,"url":"https://i.ibb.co/hyCZHHP/Megaone-clone.png","github":"","vercel":""}
-
-    ],
-    "Reviews":[
-        {"person":"Qaqambile","review":"I had the pleasure of working with Siyamthanda on a coding project,and I must say thatI was impressed with her skills and ability to learn on her own.As somoene who is her peer.I can tell you that Siya's dedication and Passion for coding are unmatched. She is a fast learner ,and her attention to detail is impeccable","url":"https://i.ibb.co/c2tXm12/C13-Portfolio-picture-1.png"},
-        {"person":"Taisha","review":"","url":""},
-        {"person":"Sphatimandla Makhanya","review":"Siyamthanda is a cheerful, friendly individual who brightens any room. She has a contagious charisma that will never fail to make you smile. She has an outstanding work ethic and an intense focus on tasks and projects, and she will be a valuable member to any team.","url":"https://i.ibb.co/9gH3D1p/Sphathimandla.jpg"},
-        {"person":"Caella Morgan Ward","review":"Siyamthanda is a passionate ,hardworking individual who giver her full potential for any task given to her ,She is a self-motivated person who always ensures to finish tasks on time.She is very caring person and truly an asset to have in your team.","url":"https://i.ibb.co/hfXTsJ8/Calla.jpg"},
-        {"person":"Joel","review":"Siyamthanda is a creative,and well-behaved individual indidual who always prioritizes her work.She excels in collaborating with others and has gained profeciency in HTML5,CSS,and Boostrap.Including Git and Github","url":"img src="https://i.ibb.co/N9yL9Pc/joel2-removebg-preview.png"},
-        {"person":"Matthew","review":"","url":"https://i.ibb.co/1L1YbSy/Matthew-no-Bg.png"}
-        
-    ],
-    "Education":[
-        {"School":"Spesbona High","duration":"2022","Qualification":"National senior Certificate","url":"https://i.ibb.co/QM1gS2q/Spesbona-High.png"},
-        {"School":"Mtn-bussiness Academy","duration":"2021","Qualification":"Nqf5 App development.ITVARSITY","url":"https://i.ibb.co/DVcVY0s/Mtn-bussiness.jpg"},
-        {"School":"Life-choices Academy","duration":"2023","Qualification":"Fullstack-web development","url":"https://i.ibb.co/80snXgQ/Life-choices-Academy.jpg"}
-    ],
-    "Footer":[
-        {"name":"Siyamthandatsobo","year":"2024"}
-    ],
-    "ContentHeadings":[
-        {"Heading":"Skills","description":"My various technological skills that I have acquired "},
-        {"Heading":"Education","description":"This is my education and Qualifications Earned"},
-        {"Heading":"Projects" ,"description":"Here is a list of the projects I have done"},
-        {"Heading":"Reviews","description":"Heres what other people say about me"}
-    ]
-
-       
-
+  "navLinks": [
+    { "id": 1, "text": "Home", "url": "/" },
+    { "id": 2, "text": "About", "url": "/about" },
+    { "id": 3, "text": "Contact", "url": "/contact" },
+    { "id": 4, "text": "Resume", "url": "/resume" },
+    { "id": 5, "text": "Projects", "url": "/projects" },
+    { "id": 6, "text": "Reviews", "url": "/review" }
+  ],
+  "Resume": [
+    { "id": 1, "title": "HTML", "url": "https://i.ibb.co/HTkk3HQ/html-code-icon.png" },
+    { "id": 2, "title": "CSS", "url": "https://i.ibb.co/ZdSfjtt/download-css-icon.png" },
+    { "id": 3, "title": "JavaScript", "url": "https://i.ibb.co/NNYJ8GQ/javascript-programming-language-icon.png" },
+    { "id": 4, "title": "Bootstrap", "url": "https://i.ibb.co/9Tq1MCz/bootstrap-4-icon.png" },
+    { "id": 5, "title": "Vue3.js", "url": "https://i.ibb.co/CMNb0Tz/vue-js-icon.png" },
+    { "id": 6, "title": "Git", "url": "https://i.ibb.co/4TksrHC/git-icon.png" }
+  ],
+  "Projects": [
+    { "id": 1, "name": "Royalfootwear", "url": "https://i.ibb.co/R64yLRc/royal-footwear.png", "github": "", "vercel": "" },
+    { "id": 2, "name": "TodoList", "url": "https://i.ibb.co/fkpM9Fn/Todo-list.png", "github": "", "vercel": "" },
+    { "id": 3, "name": "Ecommerce", "url": "https://i.ibb.co/YDkMhXM/ecommerce.png", "github": "", "vercel": "" },
+    { "id": 4, "name": "Calculator", "url": "https://i.ibb.co/xYgDWj9/Screenshot-2023-11-02-154507.png", "github": "", "vercel": "" },
+    { "id": 5, "name": "Temperature Converter", "url": "https://i.ibb.co/LCXCW66/Temperature-converter.png", "github": "", "vercel": "" },
+    { "id": 6, "name": "MegaOne Clone", "url": "https://i.ibb.co/hyCZHHP/Megaone-clone.png", "github": "", "vercel": "" }
+  ],
+  "Reviews": [
+    { "person": "Qaqambile", "review": "I had the pleasure of working with Siyamthanda on a coding project, and I must say that I was impressed with her skills and ability to learn on her own. As someone who is her peer, I can tell you that Siya's dedication and passion for coding are unmatched. She is a fast learner, and her attention to detail is impeccable.", "url": "https://i.ibb.co/c2tXm12/C13-Portfolio-picture-1.png" },
+    { "person": "Taisha", "review": "", "url": "" },
+    { "person": "Sphatimandla Makhanya", "review": "Siyamthanda is a cheerful, friendly individual who brightens any room. She has a contagious charisma that will never fail to make you smile. She has an outstanding work ethic and an intense focus on tasks and projects, and she will be a valuable member to any team.", "url": "https://i.ibb.co/9gH3D1p/Sphathimandla.jpg" },
+    { "person": "Caella Morgan Ward", "review": "Siyamthanda is a passionate, hardworking individual who gives her full potential for any task given to her. She is a self-motivated person who always ensures to finish tasks on time. She is a very caring person and truly an asset to have in your team.", "url": "https://i.ibb.co/hfXTsJ8/Calla.jpg" },
+    { "person": "Joel", "review": "Siyamthanda is a creative and well-behaved individual who always prioritizes her work. She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap, including Git and Github.", "url": "https://i.ibb.co/N9yL9Pc/joel2-removebg-preview.png" },
+    { "person": "Matthew", "review": "", "url": "https://i.ibb.co/1L1YbSy/Matthew-no-Bg.png" }
+  ],
+  "Education": [
+    { "School": "Spesbona High", "duration": "2022", "Qualification": "National Senior Certificate", "url": "https://i.ibb.co/QM1gS2q/Spesbona-High.png" },
+    { "School": "MTN Business Academy", "duration": "2021", "Qualification": "NQF5 App Development, ITVARSITY", "url": "https://i.ibb.co/DVcVY0s/Mtn-bussiness.jpg" },
+    { "School": "Life-choices Academy", "duration": "2023", "Qualification": "Fullstack Web Development", "url": "https://i.ibb.co/80snXgQ/Life-choices-Academy.jpg" }
+  ],
+  "Footer": [
+    { "name": "Siyamthandatsobo", "year": "2024" }
+  ],
+  "ContentHeadings": [
+    { "Heading": "Skills", "description": "My various technological skills that I have acquired" },
+    { "Heading": "Education", "description": "This is my education and qualifications earned" },
+    { "Heading": "Projects", "description": "Here is a list of the projects I have done" },
+    { "Heading": "Reviews", "description": "Here's what other people say about me" }
+  ]
 }
